@@ -73,10 +73,10 @@ def main():
     """
 
     # for channel plugins
-    if plugin_channels = udB.get_key("PLUGIN_CHANNEL")
+    plugin_channels = udB.get_key("PLUGIN_CHANNEL")
 
     # Customize Ultroid Assistant...
-    if ultroid_bot.run_in_loop(customize())
+    ultroid_bot.run_in_loop(customize())
 
     # Load Addons from Plugin Channels.
     if plugin_channels:
